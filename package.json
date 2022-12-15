@@ -1,6 +1,6 @@
 {
-  "name": "magna-labs-scheduler",
-  "version": "1.0.0",
+  "name": "ts-starter",
+  "version": "0.0.0",
   "description": "",
   "main": "build/index.js",
   "scripts": {
